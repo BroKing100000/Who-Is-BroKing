@@ -21,7 +21,7 @@ Website is still under construction, expect subject to change.
 
 Having troubles with website?
 
-Consider creating [GitHub Issue](https://example.com).
+Consider creating [GitHub Issue](https://github.com/BroKing100000/Who-Is-BroKing/issues).
 
 ## License & Attribution
 
