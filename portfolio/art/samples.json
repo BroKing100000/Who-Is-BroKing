@@ -1,0 +1,26 @@
+{
+
+    "Viscid": {
+
+        "Name": "Viscid",
+        "Image": "/assets/viscid.png"
+    },
+
+    "Beamlight Room": {
+
+        "Name": "Beamlight Room",
+        "Image": "/assets/beamlight_room.png"
+    },
+
+    "Aquatic Undersea": {
+
+        "Name": "Aquatic Undersea",
+        "Image": "/assets/aquatic_undersea.png"
+    },
+
+    "Moonbeam": {
+
+        "Name": "Moonbeam",
+        "Image": "/assets/moonbeam.png"
+    }
+}
