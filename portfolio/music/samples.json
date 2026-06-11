@@ -3,36 +3,36 @@
     "Disbelief": {
 
         "Name": "Disbelief",
-        "Source": "/assets/disbelief.mp3"
+        "Source": "/Who-Is-BroKing/assets/disbelief.mp3"
     },
 
     "Experimental 02": {
 
         "Name": "Experimental 02",
-        "Source": "/assets/experimental_02.mp3"
+        "Source": "/Who-Is-BroKing/assets/experimental_02.mp3"
     },
 
     "Frame Schedule": {
 
         "Name": "Frame Schedule",
-        "Source": "/assets/frame_schedule.mp3"
+        "Source": "/Who-Is-BroKing/assets/frame_schedule.mp3"
     },
 
     "Glowing Mushroom": {
 
         "Name": "Glowing Mushroom",
-        "Source": "/assets/glowing_mushroom.mp3"
+        "Source": "/Who-Is-BroKing/assets/glowing_mushroom.mp3"
     },
 
     "Rainy Leaf": {
 
         "Name": "Rainy Leaf",
-        "Source": "/assets/rainy_leaf.mp3"
+        "Source": "/Who-Is-BroKing/assets/rainy_leaf.mp3"
     },
 
     "Snowflakes And Bumps": {
 
         "Name": "Snowflakes And Bumps",
-        "Source": "/assets/snowflakes_and_bumps.mp3"
+        "Source": "/Who-Is-BroKing/assets/snowflakes_and_bumps.mp3"
     }
 }

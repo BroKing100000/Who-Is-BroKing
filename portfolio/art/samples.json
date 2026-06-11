@@ -3,24 +3,24 @@
     "Viscid": {
 
         "Name": "Viscid",
-        "Image": "/assets/viscid.png"
+        "Image": "/Who-Is-BroKing/assets/viscid.png"
     },
 
     "Beamlight Room": {
 
         "Name": "Beamlight Room",
-        "Image": "/assets/beamlight_room.png"
+        "Image": "/Who-Is-BroKing/assets/beamlight_room.png"
     },
 
     "Aquatic Undersea": {
 
         "Name": "Aquatic Undersea",
-        "Image": "/assets/aquatic_undersea.png"
+        "Image": "/Who-Is-BroKing/assets/aquatic_undersea.png"
     },
 
     "Moonbeam": {
 
         "Name": "Moonbeam",
-        "Image": "/assets/moonbeam.png"
+        "Image": "/Who-Is-BroKing/assets/moonbeam.png"
     }
 }

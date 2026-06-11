@@ -60,7 +60,7 @@ function CreateLinks(links) {
 
 // [ Calls ] //
 
-fetch('./links.json')
+fetch('links.json')
 
     .then((response) => {
 

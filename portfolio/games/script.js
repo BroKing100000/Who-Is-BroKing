@@ -53,7 +53,7 @@ function CreateGames(data) {
 
 // [ Calls ] //
 
-fetch('./games.json')
+fetch('games.json')
 
     .then((response) => {
 

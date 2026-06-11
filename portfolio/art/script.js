@@ -38,7 +38,7 @@ function CreateSamples(data) {
 
 // [ Calls ] //
 
-fetch('./samples.json')
+fetch('samples.json')
 
     .then((response) => {
 
