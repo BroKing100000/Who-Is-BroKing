@@ -1,4 +1,132 @@
 .NavigationBar {
 
-    position: fixed;
+    position: sticky;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: #1F1F1F;
+    z-index: 1000;
+    top: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+   
+}
+
+.NavigationButton {
+
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Copyright {
+    
+    margin-top: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+    letter-spacing: 1px;
+    color: #888888;
+    margin-top: 40px;
+    padding-top: 10px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.Heading {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Logo {
+
+    width: 10%;
+    height: 10%;
+    margin-bottom: 10px;
+}
+
+.Text {
+
+    width: 75%;
+    height: 75%;
+}
+
+.AboutMe {
+
+  max-width: 650px;
+  width: 90%;
+  margin: 40px auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  background-color: rgba(0,0,0,0.25);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+.AboutMe li {
+
+    color: #888888;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.CheckOut {
+
+    text-align: center;
+}
+
+.CheckOut a {
+
+    color: #888888;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+    background-color: #1F1F1F;
+}
+
+p {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+
+    transition: all 0.25s;
+    display: inline-block;
+    padding: 3px 6.5px;
+    text-decoration: none;
+    border-radius: 0px;
+}
+
+a:hover {
+
+    color: #FCE057;
+    border-radius: 10px;
+    outline: 2px solid #FCE057;
+    background-color: transparent; 
 }
